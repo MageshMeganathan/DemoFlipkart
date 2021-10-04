@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DemoFlipkart</string>
+    <string name="page_title" />
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">desc_favorite</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Content Description Search</string>
+    <string name="more">More</string>
+    <string name="content_description_more">Content Description More</string>
 </resources>
